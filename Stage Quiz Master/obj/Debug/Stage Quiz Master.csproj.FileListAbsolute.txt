@@ -1,0 +1,34 @@
+C:\Users\Dulan\Documents\Society of Computer Science\Aurora 2K15\On-Stage Quiz Software\Stage Quiz Master\Stage Quiz Master\bin\Debug\Stage Quiz Master.exe
+C:\Users\Dulan\Documents\Society of Computer Science\Aurora 2K15\On-Stage Quiz Software\Stage Quiz Master\Stage Quiz Master\bin\Debug\Stage Quiz Master.pdb
+C:\Users\Dulan\Documents\Society of Computer Science\Aurora 2K15\On-Stage Quiz Software\Stage Quiz Master\Stage Quiz Master\obj\Debug\Stage Quiz Master.csprojResolveAssemblyReference.cache
+C:\Users\Dulan\Documents\Society of Computer Science\Aurora 2K15\On-Stage Quiz Software\Stage Quiz Master\Stage Quiz Master\obj\Debug\MainWindow.baml
+C:\Users\Dulan\Documents\Society of Computer Science\Aurora 2K15\On-Stage Quiz Software\Stage Quiz Master\Stage Quiz Master\obj\Debug\MainWindow.g.cs
+C:\Users\Dulan\Documents\Society of Computer Science\Aurora 2K15\On-Stage Quiz Software\Stage Quiz Master\Stage Quiz Master\obj\Debug\App.g.cs
+C:\Users\Dulan\Documents\Society of Computer Science\Aurora 2K15\On-Stage Quiz Software\Stage Quiz Master\Stage Quiz Master\obj\Debug\Stage Quiz Master_MarkupCompile.cache
+C:\Users\Dulan\Documents\Society of Computer Science\Aurora 2K15\On-Stage Quiz Software\Stage Quiz Master\Stage Quiz Master\obj\Debug\Stage Quiz Master.g.resources
+C:\Users\Dulan\Documents\Society of Computer Science\Aurora 2K15\On-Stage Quiz Software\Stage Quiz Master\Stage Quiz Master\obj\Debug\Stage_Quiz_Master.Properties.Resources.resources
+C:\Users\Dulan\Documents\Society of Computer Science\Aurora 2K15\On-Stage Quiz Software\Stage Quiz Master\Stage Quiz Master\obj\Debug\Stage Quiz Master.csproj.GenerateResource.Cache
+C:\Users\Dulan\Documents\Society of Computer Science\Aurora 2K15\On-Stage Quiz Software\Stage Quiz Master\Stage Quiz Master\obj\Debug\Stage Quiz Master.exe
+C:\Users\Dulan\Documents\Society of Computer Science\Aurora 2K15\On-Stage Quiz Software\Stage Quiz Master\Stage Quiz Master\obj\Debug\Stage Quiz Master.pdb
+C:\Users\Dulan\Documents\Society of Computer Science\Aurora 2K15\On-Stage Quiz Software\Stage Quiz Master\Stage Quiz Master\bin\Debug\Stage Quiz Master.exe.config
+C:\Users\Dulan\Documents\Society of Computer Science\Aurora 2K15\On-Stage Quiz Software\Stage Quiz Master\Stage Quiz Master\bin\Debug\MahApps.Metro.dll
+C:\Users\Dulan\Documents\Society of Computer Science\Aurora 2K15\On-Stage Quiz Software\Stage Quiz Master\Stage Quiz Master\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Dulan\Documents\Society of Computer Science\Aurora 2K15\On-Stage Quiz Software\Stage Quiz Master\Stage Quiz Master\bin\Debug\MahApps.Metro.xml
+C:\Users\Dulan\Documents\Society of Computer Science\Aurora 2K15\On-Stage Quiz Software\Stage Quiz Master\Stage Quiz Master\obj\Debug\App.baml
+C:\Users\Dulan\Documents\Society of Computer Science\Aurora 2K15\On-Stage Quiz Software\Stage Quiz Master\Stage Quiz Master\obj\Debug\Stage Quiz Master_MarkupCompile.lref
+C:\Users\Dulan\Documents\Society of Computer Science\Aurora 2K15\On-Stage Quiz Software\Stage Quiz Master\Stage Quiz Master\obj\Debug\windowCreateNewXMLWizard.baml
+C:\Users\Dulan\Documents\Society of Computer Science\Aurora 2K15\On-Stage Quiz Software\Stage Quiz Master\Stage Quiz Master\obj\Debug\windowCreateNewXMLWizard.g.cs
+C:\Users\Dulan\Documents\Society of Computer Science\Aurora 2K15\On-Stage Quiz Software\Stage Quiz Master\Stage Quiz Master\obj\Debug\Create New Questionaire Wizard\NewXMLPage1.baml
+C:\Users\Dulan\Documents\Society of Computer Science\Aurora 2K15\On-Stage Quiz Software\Stage Quiz Master\Stage Quiz Master\obj\Debug\Create New Questionaire Wizard\NewXMLPage1.g.cs
+C:\Users\Dulan\Documents\Society of Computer Science\Aurora 2K15\On-Stage Quiz Software\Stage Quiz Master\Stage Quiz Master\obj\Debug\Create New Questionaire Wizard\NewXMLPage2.baml
+C:\Users\Dulan\Documents\Society of Computer Science\Aurora 2K15\On-Stage Quiz Software\Stage Quiz Master\Stage Quiz Master\obj\Debug\Create New Questionaire Wizard\NewXMLPage2.g.cs
+C:\Users\Dulan\Documents\Society of Computer Science\Aurora 2K15\On-Stage Quiz Software\Stage Quiz Master\Stage Quiz Master\obj\Debug\Create New Questionaire Wizard\NewXMLPage4.baml
+C:\Users\Dulan\Documents\Society of Computer Science\Aurora 2K15\On-Stage Quiz Software\Stage Quiz Master\Stage Quiz Master\obj\Debug\Create New Questionaire Wizard\NewXMLPage3.baml
+C:\Users\Dulan\Documents\Society of Computer Science\Aurora 2K15\On-Stage Quiz Software\Stage Quiz Master\Stage Quiz Master\obj\Debug\Create New Questionaire Wizard\NewXMLPage4.g.cs
+C:\Users\Dulan\Documents\Society of Computer Science\Aurora 2K15\On-Stage Quiz Software\Stage Quiz Master\Stage Quiz Master\obj\Debug\Create New Questionaire Wizard\NewXMLPage3.g.cs
+C:\Users\Dulan\Documents\Society of Computer Science\Aurora 2K15\On-Stage Quiz Software\Stage Quiz Master\Stage Quiz Master\obj\Debug\windowCalculator.baml
+C:\Users\Dulan\Documents\Society of Computer Science\Aurora 2K15\On-Stage Quiz Software\Stage Quiz Master\Stage Quiz Master\obj\Debug\windowCalculator.g.cs
+C:\Users\Dulan\Documents\Society of Computer Science\Aurora 2K15\On-Stage Quiz Software\Stage Quiz Master\Stage Quiz Master\obj\Debug\Create New Questionaire Wizard\NewXMLPage5.baml
+C:\Users\Dulan\Documents\Society of Computer Science\Aurora 2K15\On-Stage Quiz Software\Stage Quiz Master\Stage Quiz Master\obj\Debug\Create New Questionaire Wizard\NewXMLPage5.g.cs
+C:\Users\Dulan\Documents\Society of Computer Science\Aurora 2K15\On-Stage Quiz Software\Stage Quiz Master\Stage Quiz Master\obj\Debug\player.baml
+C:\Users\Dulan\Documents\Society of Computer Science\Aurora 2K15\On-Stage Quiz Software\Stage Quiz Master\Stage Quiz Master\obj\Debug\player.g.cs

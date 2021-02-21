@@ -1,0 +1,7 @@
+﻿<Controls:MetroWindow  x:Name="winCreateNewXML" x:Class="Stage_Quiz_Master.windowCreateNewXMLWizard"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+          xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        Title="Create New Questionaire Wizard" Height="300" Width="480" ResizeMode="NoResize" Topmost="True" WindowStartupLocation="CenterOwner" ShowSystemMenuOnRightClick="False" TitleCaps="False" ShowInTaskbar="False" BorderThickness="2,2,2,2" BorderBrush="{DynamicResource AccentColorBrush}" GlowBrush="{DynamicResource AccentColorBrush}" EnableDWMDropShadow="True">
+    <Frame x:Name="frameWizard" Content="" HorizontalAlignment="Left" Height="270.4" VerticalAlignment="Top" Width="473.6" NavigationUIVisibility="Hidden" Source="/Stage Quiz Master;component/Create New Questionaire Wizard/NewXMLPage1.xaml"/>
+</Controls:MetroWindow>
